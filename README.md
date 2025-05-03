@@ -15,5 +15,6 @@ If you play the game, please add a ⭐ star!
 
 To play **Ragdoll Archers**, copy and paste the following into your browser's address bar:
 
-```html
+```
 data:text/html;charset=utf-8,<iframe src="https://www.crazygames.com/embed/ragdoll-archers" style="width: 100%; height: 100%;" frameborder="0" allow="gamepad *;"></iframe>
+```
